@@ -1,0 +1,46 @@
+{
+  "name": "angularjs-sass-pack",
+  "homepage": "https://github.com/awxto/angularjs-sass-pack",
+  "authors": [
+    "abe312"
+  ],
+  "description": "bootstrap3-sass, font-awesome5, angular-bootstrap, angular-bootstrap-material, bootstrap-material-design",
+  "main": [
+    "bootstrap-material-design/dist/css/bootstrap-material-design.css",
+    "bootstrap-material-design/dist/css/ripples.css",
+    "angular-bootstrap/ui-bootstrap-tpls.js",
+    "angular-bootstrap-material/dist/angular-bootstrap-material.js",
+    "bootstrap-sass/assets/stylesheets/_bootstrap.scss",
+    "font-awesome/web-fonts-with-css/scss/fontawesome.scss",
+    "font-awesome/web-fonts-with-css/scss/fa-brands.scss",
+    "font-awesome/web-fonts-with-css/scss/fa-regular.scss",
+    "font-awesome/web-fonts-with-css/scss/fa-solid.scss"
+  ],
+  "keywords": [
+    "angularjs",
+    "sass",
+    "bootstrap",
+    "angular",
+    "material",
+    "angular-bootstrap",
+    "angular-ui",
+    "angular-bootstrap-material"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "screenshots",
+    "demo",
+    ".editorconfig",
+    ".gitignore",
+    ".jshintrc",
+    ".travis.yml",
+    "CONTRIBUTING.md",
+    "Gruntfile.json",
+    "index.html",
+    "test",
+    "tests"
+  ]
+}

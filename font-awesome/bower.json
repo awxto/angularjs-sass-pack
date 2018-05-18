@@ -1,0 +1,34 @@
+{
+  "name": "font-awesome",
+  "homepage": "https://github.com/twbs/font-awesome",
+  "authors": [
+    "Thomas McDonald",
+    "Tristan Harward",
+    "Peter Gumeson",
+    "Gleb Mazovetskiy"
+  ],
+  "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+  "moduleType": "globals",
+  "main": [
+      "web-fonts-with-css/scss/fontawesome.scss",
+      "web-fonts-with-css/scss/fa-brands.scss",
+      "web-fonts-with-css/scss/fa-regular.scss",
+      "web-fonts-with-css/scss/fa-solid.scss"
+      
+  ],
+  "keywords": [
+    "font-awesome"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "lib",
+    "tasks",
+    "templates",
+    "test",
+    "*.gemspec",
+    "Rakefile",
+    "Gemfile"
+  ],
+  "version": "5"
+}
