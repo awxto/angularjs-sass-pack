@@ -1,6 +1,6 @@
 {
   "name": "angularjs-sass-pack",
-  "version": "2.0.1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+  "version": "2.0.3",
   "homepage": "https://github.com/awxto/angularjs-sass-pack",
   "authors": [
     "abe312"
@@ -8,7 +8,7 @@
   "description": "bootstrap3-sass, font-awesome5, angular-bootstrap, angular-bootstrap-material, bootstrap-material-design",
   "main": [
     "bootstrap-sass/assets/stylesheets/_bootstrap.scss",
-    "bootstrap-material-design/dist/css/bootstrap-material-design.scss",
+    "bootstrap-material-design/dist/css/bootstrap-material-design.min.scss",
     "bootstrap-material-design/dist/css/ripples.css",
     "font-awesome/web-fonts-with-css/scss/fa-brands.scss",
     "font-awesome/web-fonts-with-css/scss/fa-regular.scss",
